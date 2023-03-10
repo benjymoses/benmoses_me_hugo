@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hugo Academic Blog Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: "https://example.com/" # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -15,7 +15,7 @@ cascade:
   - _target:
       path: /post/**
     pager: true
-    editable: true
+    editable: false
     reading_time: true
     commentable: true
     show_related: true
@@ -56,9 +56,9 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  authors: "/author/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
