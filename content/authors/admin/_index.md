@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Ben Moses
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Hi, I'm **Ben**, a Senior Solutions Architect at AWS.
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻
 
 # Organizations/Affiliations
-organizations:
-  - name: 腾讯
-    url: ''
+# organizations:
+#   - name: Opinions are my own.
+#     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: This site is a place for me to gather my blog posts, photos, code samples and more. By day I'm a Senior Solutions Architect at AWS, based in the UK. I get to help customers adopt and make best use of technology, and learn along the way. I've always been inquisitive and have picked up lots of interesting hobbies over the years, time to share and give back. **Disclaimer** -- opinions are my own.
 
 #interests:
 #- Artificial Intelligence
@@ -42,20 +42,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: "about/#contact" # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/benmosesuk
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-
+    link: https://www.linkedin.com/in/benmosesuk
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/benjymoses
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +63,3 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

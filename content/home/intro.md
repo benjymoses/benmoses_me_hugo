@@ -18,6 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
-
-Check out my [CV](/about/) and blog posts below 🌈
+For 2023 I decided to start learning and playing with ideas in the open.  
+Read about that journey here. **Disclaimer**: opinions are my own.
